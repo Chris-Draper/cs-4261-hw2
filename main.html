@@ -1,3 +1,14 @@
-<div id="react_container">
-    <p>Database contents are displayed below</p>
-</div>
+<head>
+    <script src="scripts/db.js">
+        console.log("Currently in main.html - running db_connect() method next.");
+    </script>
+</head>
+<body>
+    <script>
+        console.log("Running script tag in html");
+        db_connect();
+    </script>
+    <div id="react_container">
+        <p>Database contents are displayed below</p>
+    </div>
+</body>
