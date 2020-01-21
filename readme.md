@@ -11,14 +11,17 @@ Above & Beyond
 2. User can login to the application with encrypted password checking
 3. Get user location and display relevant weather data
 
-Sources:
+Node Sources:
 1. https://nodejs.org/en/
 2. https://www.w3schools.com/nodejs/
-3. https://www.npmjs.com/package/react'
-4. https://reactjs.org/docs/getting-started.html
-5. https://www.taniarascia.com/getting-started-with-react/
-6. https://requirejs.org/docs/api.html#usage
-7. https://docs.npmjs.com/using-npm-packages-in-your-projects
+3. https://requirejs.org/docs/api.html#usage
+4. https://docs.npmjs.com/using-npm-packages-in-your-projects
+5. https://docs.npmjs.com/files/package-lock.json
 
-Stack Overflow Links:
+React Sources:
+1. https://reactjs.org/docs/getting-started.html
+2. https://www.npmjs.com/package/react
+3. https://www.taniarascia.com/getting-started-with-react/
+
+Stack Overflow Sources:
 1. https://stackoverflow.com/questions/19869639/how-to-call-a-javascript-function-within-an-html-body/19869671
