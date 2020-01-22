@@ -1,3 +1,4 @@
+// these are all of the default variables from express generator
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
@@ -6,6 +7,9 @@ var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
+
+// add in npm mysql module
+var mysql = require("mysql");
 
 var app = express();
 
