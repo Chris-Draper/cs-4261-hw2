@@ -4,7 +4,7 @@
 # The statements will run from the top of the file to the bottom of the file
 # This is important because some of the insert statements are dependent on each other
 
-use my_closet;
+use my_closet_test;
 
 insert into `account_data`
 (username, user_pass, first_name, last_name)

@@ -3,8 +3,8 @@
 # Then press ctrl+shift+enter to run all of the statements
 # The statements execute in order from the top of the file to the bottom of the file
 
-create schema if not exists my_closet;
-use my_closet;
+create schema if not exists my_closet_test;
+use my_closet_test;
 
 create table if not exists account_data (
 username varchar(40) not null,
