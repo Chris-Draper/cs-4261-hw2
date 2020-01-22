@@ -34,6 +34,7 @@ React Sources:
 2. https://www.npmjs.com/package/react
 3. https://www.taniarascia.com/getting-started-with-react/
 4. https://github.com/facebook/create-react-app
+5. https://pusher.com/tutorials/consume-restful-api-react?fbclid=IwAR34vgCGwv5KAWogvNhTZgwtih9mlp0f4Oo6Nju-jarOdyXUrMVcxJVYdRA
 
 Stack Overflow Sources:
 1. https://stackoverflow.com/questions/19869639/how-to-call-a-javascript-function-within-an-html-body/19869671
