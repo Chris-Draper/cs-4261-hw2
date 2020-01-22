@@ -18,8 +18,16 @@ Node Sources:
 4. https://docs.npmjs.com/using-npm-packages-in-your-projects
 5. https://docs.npmjs.com/files/package-lock.json
 
-Restful API Source:
+HTTP Request Guide:
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+
+Restful API for Express App:
 https://medium.com/@avanthikameenakshi/building-restful-api-with-nodejs-and-mysql-in-10-min-ff740043d4be
+
+Express Generator Tutorial:
+https://expressjs.com/en/starter/generator.html
+
+
 
 React Sources:
 1. https://reactjs.org/docs/getting-started.html
