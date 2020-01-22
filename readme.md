@@ -18,6 +18,9 @@ Node Sources:
 4. https://docs.npmjs.com/using-npm-packages-in-your-projects
 5. https://docs.npmjs.com/files/package-lock.json
 
+Restful API Source:
+https://medium.com/@avanthikameenakshi/building-restful-api-with-nodejs-and-mysql-in-10-min-ff740043d4be
+
 React Sources:
 1. https://reactjs.org/docs/getting-started.html
 2. https://www.npmjs.com/package/react
